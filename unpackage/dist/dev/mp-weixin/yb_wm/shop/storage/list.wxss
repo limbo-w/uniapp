@@ -1,0 +1,21 @@
+.ipolcs.data-v-091bf78a {
+  height: 65rpx;
+}
+.ipomt.data-v-091bf78a {
+  margin-top: 186rpx;
+}
+.mrltc.data-v-091bf78a {
+  width: 50rpx;
+  height: 50rpx;
+}
+.b-l-yy.data-v-091bf78a {
+  background: linear-gradient(to bottom, #05CBE0, #02AABA);
+}
+.ft.data-v-091bf78a {
+  position: fixed;
+  top: 97rpx;
+  z-index: 9;
+  min-width: 100%;
+  background-color: #F5F5F5;
+}
+

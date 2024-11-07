@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "bk-b": "/components/common/block-b",
+    "mg-cell": "/components/common/mg-cell"
+  }
+}

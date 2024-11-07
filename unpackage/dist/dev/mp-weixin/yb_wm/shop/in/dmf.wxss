@@ -1,0 +1,39 @@
+
+page {
+	background-color: #F8F8F8;
+}
+.itpc {
+	color: #E6E6E6;
+}
+.mdps {
+	font-size: 45rpx;
+	font-weight: normal;
+	line-height: normal;
+}
+
+.cfc.data-v-81f25f2a {
+  color: #FF5D0C;
+}
+.sjimg.data-v-81f25f2a {
+  width: 90rpx;
+  height: 90rpx;
+}
+.mdbd.data-v-81f25f2a {
+  border-radius: 40rpx 40rpx 0 0;
+}
+.mdbdt.data-v-81f25f2a {
+  margin: 0 50rpx;
+}
+.mdinput.data-v-81f25f2a {
+  font-size: 70rpx;
+  height: 2.9rem;
+  line-height: 2.9rem;
+  caret-color: #17E883;
+}
+.mdbdb.data-v-81f25f2a {
+  padding: 0 50rpx;
+}
+.hdwith.data-v-81f25f2a {
+  width: 100rpx;
+}
+

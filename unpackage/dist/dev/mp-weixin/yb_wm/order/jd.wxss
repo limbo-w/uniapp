@@ -1,0 +1,19 @@
+.jdred .jtitem.data-v-01c3d6e8 {
+  width: 90rpx;
+  height: 90rpx;
+  margin: 0 20rpx 40rpx 20rpx;
+  border-radius: 50%;
+}
+.jdred .jtc.data-v-01c3d6e8 {
+  padding: 40rpx 10rpx 20rpx 10rpx;
+}
+.jdred .icw.data-v-01c3d6e8 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.jdred .sbtn.data-v-01c3d6e8 {
+  width: 350rpx;
+  height: 84rpx;
+  border-radius: 47px;
+}
+

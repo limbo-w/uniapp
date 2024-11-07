@@ -1,0 +1,15 @@
+.susBtn.data-v-08e7429b {
+  width: 140rpx;
+}
+.susBtn .imgc.data-v-08e7429b {
+  width: 100rpx;
+  height: 100rpx;
+}
+.susBtn .imgc.data-v-08e7429b:not(:last-child) {
+  margin-bottom: 20rpx;
+}
+.susBtn .imgc .img.data-v-08e7429b {
+  width: 53rpx;
+  height: 53rpx;
+}
+

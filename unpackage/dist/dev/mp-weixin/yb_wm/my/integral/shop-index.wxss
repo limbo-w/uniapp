@@ -1,0 +1,27 @@
+.topimg.data-v-e7f71868 {
+  width: 350rpx;
+  height: 350rpx;
+}
+.jfgb.data-v-e7f71868 {
+  padding: 12rpx 20rpx;
+}
+.bf2.data-v-e7f71868 {
+  background: #FF5012;
+}
+.imgc.data-v-e7f71868 {
+  width: 320rpx;
+  height: 320rpx;
+  margin-top: 30rpx;
+}
+.goodsc.data-v-e7f71868 {
+  width: 325rpx;
+}
+.goodsimg.data-v-e7f71868 {
+  width: 325rpx;
+  height: 325rpx;
+}
+.boxs.data-v-e7f71868 {
+  border-radius: 8rpx;
+  padding: 0 7rpx;
+}
+

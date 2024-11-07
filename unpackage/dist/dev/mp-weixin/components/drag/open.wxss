@@ -1,0 +1,18 @@
+.countC.data-v-69e135cc {
+  width: 140rpx;
+  height: 55rpx;
+  top: 80rpx;
+  left: 30rpx;
+  border-radius: 55rpx;
+  background-color: rgba(147, 147, 147, 0.6);
+}
+.tcgg.data-v-69e135cc {
+  width: 70%;
+}
+.tcbtm.data-v-69e135cc {
+  margin-top: 50rpx;
+}
+.iconx2.data-v-69e135cc {
+  font-size: 68rpx;
+}
+

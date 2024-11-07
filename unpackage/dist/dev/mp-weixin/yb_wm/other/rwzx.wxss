@@ -1,0 +1,16 @@
+.rwtop.data-v-59841713 {
+  padding: 110rpx 40rpx;
+}
+.b-s.data-v-59841713 {
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+}
+.qwc.data-v-59841713 {
+  background: #FF4444;
+  padding: 5rpx 25rpx;
+  border-radius: 50rpx;
+}
+.cell.data-v-59841713:after {
+  left: 160rpx;
+  right: 30rpx;
+}
+

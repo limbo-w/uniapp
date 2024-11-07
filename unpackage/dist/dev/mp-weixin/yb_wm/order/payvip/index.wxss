@@ -1,0 +1,279 @@
+.tggc.data-v-d17a9eec {
+  border-radius: 40rpx;
+  padding: 6rpx 30rpx;
+}
+.sgyk.data-v-d17a9eec {
+  color: #EBE5DD;
+  margin: 30rpx auto 0;
+  height: 82rpx;
+  border-radius: 82rpx;
+  background: linear-gradient(90deg, #7F500C 60%, #583602);
+}
+.xsth.data-v-d17a9eec {
+  top: 26rpx;
+  left: -38rpx;
+  width: 168rpx;
+  height: 45rpx;
+  font-size: 22rpx;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  -webkit-transform-origin: 50% 0%;
+          transform-origin: 50% 0%;
+  color: #6E481C;
+  background: linear-gradient(0deg, #FFE3B5 0%, #FEEDD5 100%);
+}
+.foot-btnc.data-v-d17a9eec {
+  background: #fff;
+}
+.foot-btnc .sgyk.data-v-d17a9eec {
+  color: #7F500C;
+  height: 92rpx;
+  background: linear-gradient(90deg, #FADFC1 0%, #E9BB7D 100%);
+}
+.foot-btnc .xsth.data-v-d17a9eec {
+  color: #F8CC91;
+  background: linear-gradient(90deg, #623D09 60%, #926016);
+}
+.pvt1c .pvt1.data-v-d17a9eec {
+  padding: 25rpx 35rpx 35rpx;
+}
+.pvt1c .pvt3.data-v-d17a9eec {
+  padding: 48rpx 35rpx;
+}
+.pvt1c .pvt3 .imgc.data-v-d17a9eec {
+  width: 100rpx;
+  height: 100rpx;
+}
+.pvt1c .pvt3 .rbtn.data-v-d17a9eec {
+  color: #fff;
+  width: 148rpx;
+  height: 68rpx;
+  border-radius: 68rpx;
+  background: linear-gradient(90deg, #AA632C, #7E4913);
+}
+.pvt1c .ygqc.data-v-d17a9eec {
+  top: 6rpx;
+  right: -42rpx;
+  width: 190rpx;
+  height: 48rpx;
+  padding-left: 30rpx;
+  font-size: 22rpx;
+  -webkit-transform: rotate(32deg);
+          transform: rotate(32deg);
+  -webkit-transform-origin: 50% 0%;
+          transform-origin: 50% 0%;
+  color: #676767;
+  background: linear-gradient(90deg, #D7D7D8, #C1C1C1);
+}
+.hyxfc.data-v-d17a9eec {
+  margin: -30rpx -16rpx 0;
+}
+.hyxfc .xfyj.data-v-d17a9eec {
+  width: 16rpx;
+  height: 66rpx;
+  border-top-left-radius: 30rpx;
+  border: 1px solid #CC9C73;
+  border-right: none;
+  border-bottom: none;
+  background: #1C1E23;
+  left: 0;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+.hyxfc .xfyj2.data-v-d17a9eec {
+  width: 16rpx;
+  height: 66rpx;
+  border-top-right-radius: 30rpx;
+  border: 1px solid #CC9C73;
+  border-left: none;
+  border-bottom: none;
+  background: #1C1E23;
+  right: 0;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+}
+.hyxfc .zsj.data-v-d17a9eec {
+  top: -10rpx;
+  left: 0;
+  background: #313235;
+  width: 51%;
+  height: 22rpx;
+  -webkit-transform: skew(0, 3deg);
+          transform: skew(0, 3deg);
+}
+.hyxfc .ysj.data-v-d17a9eec {
+  top: -10rpx;
+  right: 0;
+  background: #313235;
+  width: 51%;
+  height: 22rpx;
+  -webkit-transform: skew(0, -3deg);
+          transform: skew(0, -3deg);
+}
+.hyxfc .b-r-d.data-v-d17a9eec:after {
+  background: #5F5F5D;
+}
+.hyxfc .top.data-v-d17a9eec {
+  background: #313235;
+  border-radius: 0 0 30rpx 30rpx;
+}
+.hyxfc .btm.data-v-d17a9eec {
+  padding: 22rpx 60rpx;
+  background: #2C2D30;
+  border-radius: 0 0 30rpx 30rpx;
+}
+.jbc.data-v-d17a9eec {
+  background: linear-gradient(to bottom, #EDC894 10%, #B3804D 30%, #875627 60%, #4E2907 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+.hytq.data-v-d17a9eec {
+  color: #000;
+}
+.tjdx.data-v-d17a9eec {
+  width: 48rpx;
+  height: 2rpx;
+  background: #000;
+}
+.pvt2c.data-v-d17a9eec {
+  background: linear-gradient(135deg, #FFF0DC, #FBE6C4);
+  background: #fff;
+}
+.pvt2c .qxc.data-v-d17a9eec {
+  padding: 0 10rpx;
+  height: 38rpx;
+  color: #FFE5B8;
+  background: linear-gradient(45deg, #AC7248, #B58359, #8B5C38);
+  -webkit-transform: skew(-10deg);
+          transform: skew(-10deg);
+}
+.pvt2c .yhqc.data-v-d17a9eec {
+  margin-top: 20rpx;
+  width: 307rpx;
+  height: 160rpx;
+}
+.pvt2c .yhqc .yhqt.data-v-d17a9eec {
+  font-size: 52rpx;
+}
+.pvt2c .yhqbg2.data-v-d17a9eec {
+  width: 70rpx;
+  height: 70rpx;
+  top: -12rpx;
+  left: -8rpx;
+}
+.pvt2c .yhqbg3.data-v-d17a9eec {
+  top: 0;
+  border-radius: 8px 0 8px 0;
+  padding: 1px 10px;
+  background: #FFEBCA;
+  color: #AE884B;
+}
+.pvt2c .ty.data-v-d17a9eec {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+  color: #EADED8;
+}
+.pvt2c .yhq2c.data-v-d17a9eec {
+  background: linear-gradient(90deg, #FFF7E4 40%, #FCDBB2 100%);
+  height: 170rpx;
+}
+.pvt2c .yhq2c .leftl.data-v-d17a9eec {
+  font-size: 52rpx;
+  width: 180rpx;
+}
+.pvt2c .yhq2c .right.data-v-d17a9eec {
+  width: 200rpx;
+  border-left: 4rpx dashed #FFEBD2;
+  stroke-dasharray: 4;
+  stroke-dashoffset: 22;
+}
+.pvt2c .yhq2c .right .lq.data-v-d17a9eec {
+  color: #6F3E07;
+  width: 140rpx;
+  height: 60rpx;
+  border-radius: 60rpx;
+  background: linear-gradient(90deg, #FBDC9D, #FEB94A);
+}
+.pvt2c .yhq2c .yd.data-v-d17a9eec {
+  left: -16rpx;
+  width: 28rpx;
+  height: 28rpx;
+  background: #fff;
+  border-radius: 50%;
+}
+.pvt2c .yhq2c .syd.data-v-d17a9eec {
+  top: -16rpx;
+}
+.pvt2c .yhq2c .xyd.data-v-d17a9eec {
+  bottom: -16rpx;
+}
+.tctcc.data-v-d17a9eec {
+  border-radius: 30rpx 30rpx 0 0;
+}
+.tctcc .tctcc1.data-v-d17a9eec::after {
+  content: "";
+  height: 0;
+  width: 222rpx;
+}
+.tctcc .tcc.data-v-d17a9eec {
+  width: 222rpx;
+  height: 214rpx;
+  background: #F7F7F7;
+  color: #9C714C;
+}
+.tctcc .tcc.xz.data-v-d17a9eec {
+  border: 1px solid #DABE94;
+  background: #F3EADC;
+}
+.tctcc .tcc .ysjc.data-v-d17a9eec {
+  right: 0;
+  top: -10rpx;
+  padding: 2rpx 12rpx;
+  border-radius: 15rpx 0 15rpx 0;
+  background: linear-gradient(135deg, #FE2623, #FF5C4A);
+}
+.tctcc .tcc .ysjcyh.data-v-d17a9eec {
+  background: linear-gradient(135deg, #FF5D01, #FF8015);
+}
+.tctcc .dgc.data-v-d17a9eec {
+  width: 34rpx;
+  height: 34rpx;
+  background: #040403;
+}
+.kttcc.data-v-d17a9eec {
+  height: 96rpx;
+  border-radius: 96rpx;
+  background: #F7D9AC;
+}
+.kttcc .left.data-v-d17a9eec {
+  width: 70%;
+  padding: 0 30rpx 0 40rpx;
+}
+.kttcc .right.data-v-d17a9eec {
+  top: 0;
+  right: 0;
+  width: 34%;
+  height: 104rpx;
+  margin-top: -6rpx;
+}
+.kttcc .right .cfx.data-v-d17a9eec {
+  width: 82%;
+  right: 0;
+  height: 100%;
+  background: #30343D;
+  border-radius: 0 103rpx 103rpx 0;
+  color: #E6B977;
+  padding-right: 10rpx;
+}
+.kttcc .right .xsj.data-v-d17a9eec {
+  top: 0;
+  width: 45rpx;
+  background: #30343D;
+  height: 100%;
+  left: 0;
+  -webkit-transform: translateX(44%) skew(-20deg);
+          transform: translateX(44%) skew(-20deg);
+}
+

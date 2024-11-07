@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "nav-tab": "/components/common/functionCmp/nav-tab",
+    "jzz": "/components/common/jzz",
+    "uni-rate": "/components/third/uni-rate"
+  }
+}

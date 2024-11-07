@@ -1,0 +1,14 @@
+.ggbt.data-v-6fa9a9b8 {
+  padding: 1rpx 12rpx 1rpx 0;
+  font-size: 24rpx;
+  border-radius: 7rpx;
+}
+.limg.data-v-6fa9a9b8 {
+  width: 80rpx;
+  height: 50rpx;
+}
+.ngr.data-v-6fa9a9b8 {
+  padding: 10rpx 0rpx;
+  height: 80rpx;
+}
+

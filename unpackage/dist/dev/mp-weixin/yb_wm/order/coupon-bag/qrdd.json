@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "number-box": "/components/form/number-box"
+  }
+}

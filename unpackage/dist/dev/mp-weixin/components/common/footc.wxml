@@ -1,0 +1,1 @@
+<block wx:if="{{system&&system.copyright}}"><view class="bfooter f-c-c c9 f26 t-c data-v-49d4cecc"><view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" class="f-c data-v-49d4cecc" bindtap="__e"><block wx:if="{{system.copyright.support}}"><view class="data-v-49d4cecc">{{system.copyright.support}}</view></block></view></view></block>

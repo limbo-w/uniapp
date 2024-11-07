@@ -1,0 +1,1 @@
+<image class="{{['data-v-02c48a89','wh',cname]}}" style="{{$root.s0}}" mode="{{m}}" src="{{$root.m0}}" data-event-opts="{{[['tap',[['$emit',['click']]]]]}}" bindtap="__e"></image>

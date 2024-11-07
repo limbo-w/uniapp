@@ -1,0 +1,19 @@
+.imgw.data-v-5c26c438 {
+  width: 100rpx;
+  height: 100rpx;
+}
+.ptb7.data-v-5c26c438 {
+  padding: 40rpx 70rpx;
+}
+.mt60.data-v-5c26c438 {
+  margin-top: 60rpx;
+}
+.line24.data-v-5c26c438 {
+  line-height: 24rpx;
+}
+.yuan.data-v-5c26c438 {
+  width: 64rpx;
+  height: 64rpx;
+  border-radius: 50%;
+}
+

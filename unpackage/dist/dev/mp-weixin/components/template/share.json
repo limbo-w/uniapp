@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mg-popup": "/components/common/popup",
+    "mg-swiper": "/components/common/functionCmp/swiper"
+  }
+}

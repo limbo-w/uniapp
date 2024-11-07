@@ -1,0 +1,1 @@
+<mg-cell vue-id="6f3f7e63-1" last="1" btt="{{address&&address.address||'暂无自提地址'}}" bttc="f34" arrow="1" data-event-opts="{{[['^tab',[['ztshow']]]]}}" bind:tab="__e" class="data-v-5e6d6303" bind:__l="__l" vue-slots="{{['bd']}}"><view class="mt10 f24 data-v-5e6d6303" slot="bd">{{desc}}</view></mg-cell>

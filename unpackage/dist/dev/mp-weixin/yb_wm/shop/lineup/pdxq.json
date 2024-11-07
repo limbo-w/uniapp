@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mg-input": "/components/form/mg-input",
+    "book-text": "/components/common/functionCmp/rich-text"
+  }
+}

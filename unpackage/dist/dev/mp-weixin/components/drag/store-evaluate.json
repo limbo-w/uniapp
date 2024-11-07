@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gf-evaluate": "/components/goods/gf-evaluate"
+  }
+}

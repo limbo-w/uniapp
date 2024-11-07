@@ -1,0 +1,20 @@
+.sfbg.data-v-48386e4e {
+  background-color: #424141;
+  height: 15vh;
+}
+.sfimg.data-v-48386e4e {
+  width: 140rpx;
+  height: 140rpx;
+  margin-top: -70rpx;
+}
+.sfbd.data-v-48386e4e {
+  padding: 0 60rpx;
+}
+.sfmc.data-v-48386e4e {
+  margin: 0 0 30rpx;
+}
+.sfm.data-v-48386e4e {
+  width: 312rpx;
+  height: 312rpx;
+}
+

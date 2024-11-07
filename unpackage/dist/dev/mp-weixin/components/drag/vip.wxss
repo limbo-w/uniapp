@@ -1,0 +1,90 @@
+.header.data-v-549f5bfd {
+  width: 160%;
+  margin-left: -30%;
+  border-bottom-left-radius: 40%;
+  border-bottom-right-radius: 40%;
+  overflow: hidden;
+}
+.mywh.data-v-549f5bfd {
+  width: 100vw;
+  height: 100%;
+}
+.my-header.data-v-549f5bfd {
+  padding: 40rpx 30rpx 40rpx;
+}
+.my-header .text-btn.data-v-549f5bfd {
+  width: 130rpx;
+  height: 50rpx;
+  border-color: #fff;
+}
+.my-header .img.data-v-549f5bfd {
+  width: 116rpx;
+  height: 116rpx;
+  margin-right: 30rpx;
+}
+.my-header .fz.data-v-549f5bfd {
+  font-size: 18rpx;
+  padding: 2rpx 15rpx;
+  border-radius: 5rpx;
+  border: 1rpx solid #fff;
+  margin-left: 20rpx;
+}
+.my-header .hgimg.data-v-549f5bfd {
+  top: -18rpx;
+  right: 10rpx;
+  width: 53rpx;
+  height: 54rpx;
+}
+.my-header .vname-l.data-v-549f5bfd {
+  min-width: 120rpx;
+  padding: 3rpx 10rpx 3rpx 15rpx;
+  border-radius: 50rpx 0 0 50rpx;
+  background: linear-gradient(to right, #503215, #55371A);
+  color: #FFFADB;
+}
+.my-header .vname-r.data-v-549f5bfd {
+  min-width: 120rpx;
+  padding: 3rpx 15rpx 3rpx 10rpx;
+  border-radius: 0 50rpx 50rpx 0;
+  background: linear-gradient(to right, #FFF3A6, #FCD96F);
+  color: #7A5D24;
+}
+.my-bd.data-v-549f5bfd {
+  margin: 0 25rpx;
+  background: linear-gradient(to right, #535353, #131313);
+  border-radius: 40rpx 40rpx 0 0;
+}
+.my-bd .vc.data-v-549f5bfd {
+  padding: 15rpx 30rpx 25rpx;
+}
+.my-bd .dlbtn.data-v-549f5bfd {
+  background: linear-gradient(to right, #FFF5C2, #FFDD8B);
+}
+.my-bd .vimg.data-v-549f5bfd {
+  width: 25rpx;
+  height: 25rpx;
+}
+.my-bd .img.data-v-549f5bfd {
+  width: 46rpx;
+  height: 46rpx;
+}
+.my-bd .ysj.data-v-549f5bfd {
+  width: 0;
+  height: 0;
+  border-top: 6rpx solid transparent;
+  border-left: 10rpx solid #333;
+  border-bottom: 6rpx solid transparent;
+}
+.my-datac.data-v-549f5bfd {
+  padding: 20rpx 20rpx 0;
+}
+.my-data.data-v-549f5bfd {
+  padding: 35rpx 0rpx;
+}
+.my-data .b-r-d.data-v-549f5bfd:after {
+  background: #fff;
+}
+.my-data .datac:last-child.b-r-d.data-v-549f5bfd:after {
+  background: #fff;
+}
+

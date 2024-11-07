@@ -1,0 +1,24 @@
+.weui-cell.data-v-4b25170c:after {
+  display: block;
+}
+.img.data-v-4b25170c {
+  width: 50rpx;
+  height: 50rpx;
+  margin-right: 20rpx;
+}
+.last.data-v-4b25170c:after {
+  display: none;
+}
+.left0.data-v-4b25170c:after {
+  left: 0rpx;
+}
+.right30.data-v-4b25170c:after {
+  right: 30rpx;
+}
+.arrow.data-v-4b25170c {
+  margin-right: -5rpx;
+}
+.aligns.data-v-4b25170c {
+  align-items: flex-start;
+}
+

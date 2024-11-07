@@ -1,0 +1,12 @@
+.titles-c.data-v-372ba820 {
+  padding: 30rpx;
+}
+.titles-c .img.data-v-372ba820 {
+  width: 48rpx;
+  height: 48rpx;
+}
+.titles-c .blf9.data-v-372ba820 {
+  border-left: 1rpx solid #f9f9f9;
+  padding-left: 30rpx;
+}
+

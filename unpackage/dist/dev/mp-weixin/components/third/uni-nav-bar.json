@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-status-bar": "/components/third/uni-status-bar",
+    "mg-popup": "/components/common/popup"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "uni-qrcode": "/components/uQrcode/uni-qrcode"
+  }
+}

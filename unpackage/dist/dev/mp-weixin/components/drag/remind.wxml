@@ -1,0 +1,1 @@
+<block wx:if="{{co}}"><view class="remind data-v-6558dc55" style="{{'margin-top:'+(co.marginTop+'px')+';'+('margin-bottom:'+(co.marginBottom+'px')+';')}}"></view></block>

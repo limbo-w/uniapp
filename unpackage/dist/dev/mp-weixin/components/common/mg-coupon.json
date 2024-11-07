@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mg-rtext": "/components/common/functionCmp/rich-text"
+  }
+}

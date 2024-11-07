@@ -1,0 +1,14 @@
+.maint.data-v-11bb248a {
+  padding: 50rpx 0;
+}
+.timg.data-v-11bb248a {
+  width: 220rpx;
+  height: 220rpx;
+}
+.foot-btnc.data-v-11bb248a {
+  padding: 40rpx;
+}
+.foot-btn.data-v-11bb248a {
+  height: 102rpx;
+}
+

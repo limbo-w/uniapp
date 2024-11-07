@@ -1,0 +1,9 @@
+.img.data-v-12f1436c {
+  width: 660rpx;
+  margin-top: 100rpx;
+  box-shadow: 0 0 12rpx 3rpx rgba(221, 221, 221, 0.6);
+}
+.bcan.data-v-12f1436c {
+  width: 650rpx;
+}
+

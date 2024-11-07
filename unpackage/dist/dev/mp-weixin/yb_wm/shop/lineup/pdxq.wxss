@@ -1,0 +1,20 @@
+.ptc.data-v-981c3b76 {
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+  border-radius: 15rpx;
+}
+.ptcdb.data-v-981c3b76 {
+  left: 0;
+  bottom: -28rpx;
+  height: 37rpx;
+}
+.leftw.data-v-981c3b76 {
+  min-width: 150rpx;
+}
+.tz.data-v-981c3b76 {
+  border-left: none;
+  border-right: none;
+}
+.tips.data-v-981c3b76 {
+  line-height: 40rpx;
+}
+

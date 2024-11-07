@@ -1,0 +1,8 @@
+.main.data-v-4502dbce {
+  padding: 90rpx 40rpx 30rpx;
+}
+.mainc.data-v-4502dbce {
+  padding: 20rpx 0 30rpx;
+  box-shadow: 0rpx 10rpx 15rpx 5rpx rgba(221, 221, 221, 0.8);
+}
+

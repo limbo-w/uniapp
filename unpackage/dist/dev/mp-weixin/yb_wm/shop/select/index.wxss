@@ -1,0 +1,39 @@
+.stssk.data-v-619b6b57 {
+  height: 68rpx;
+  border-radius: 68rpx;
+}
+.bt-e.data-v-619b6b57 {
+  border-bottom: 1px solid #EAEAEA;
+}
+.map.data-v-619b6b57 {
+  width: 750rpx;
+  height: 490rpx;
+}
+.dpic.data-v-619b6b57 {
+  padding: 40rpx 0;
+}
+.dpic .dpicrt.data-v-619b6b57 {
+  width: 28%;
+}
+.dpic .dpicrt .dtanc.data-v-619b6b57 {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 50%;
+}
+.yddsj.data-v-619b6b57 {
+  right: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-bottom: 56rpx solid #fff;
+  border-left: 56rpx solid transparent;
+}
+.gou.data-v-619b6b57 {
+  right: 8rpx;
+  bottom: 6rpx;
+}
+.scl.data-v-619b6b57 {
+  height: 70rpx;
+  border-radius: 70rpx;
+}
+

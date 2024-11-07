@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "mg-photo": "/components/form/mg-photo"
+  }
+}

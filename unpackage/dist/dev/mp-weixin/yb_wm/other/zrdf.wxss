@@ -1,0 +1,25 @@
+.rwimg.data-v-6986110a {
+  width: 100%;
+  height: 300rpx;
+  bottom: 10rpx;
+}
+.dftxt.data-v-6986110a {
+  top: 80rpx;
+  left: 75rpx;
+  right: 75rpx;
+}
+.zlbd.data-v-6986110a {
+  border-radius: 10rpx 10rpx 0 0;
+  margin-top: -30rpx;
+}
+.zlbd .paymoeny.data-v-6986110a {
+  display: flex;
+  align-items: baseline;
+}
+.zlbd .cf0.data-v-6986110a {
+  color: #F41C0D;
+}
+.djsc.data-v-6986110a {
+  line-height: 70rpx;
+}
+

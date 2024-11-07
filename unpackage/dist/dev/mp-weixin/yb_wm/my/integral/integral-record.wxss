@@ -1,0 +1,20 @@
+.imgw.data-v-ec80d55e {
+  width: 100rpx;
+  height: 100rpx;
+}
+.bor-b.data-v-ec80d55e {
+  border-bottom: 1px solid #EFF3F6;
+}
+.pt110.data-v-ec80d55e {
+  padding-top: 110rpx;
+}
+.bwid.data-v-ec80d55e {
+  width: 175rpx;
+}
+.c1f.data-v-ec80d55e {
+  color: #1FBF5F;
+}
+.c3f.data-v-ec80d55e {
+  color: #999;
+}
+

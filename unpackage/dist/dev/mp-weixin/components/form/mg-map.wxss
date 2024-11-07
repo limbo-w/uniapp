@@ -1,0 +1,24 @@
+.iframe.data-v-bd95cb2e {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding-top: 0px;
+}
+.iframe .map-fb.data-v-bd95cb2e {
+  border-top: 1.1px solid #e5e5e5;
+  height: 12%;
+  padding: 0 8%;
+}
+.iframe .map-fb view.data-v-bd95cb2e {
+  width: 45%;
+  height: 50%;
+  border-radius: 20rpx;
+  border: 1.1px solid #d5d5d5;
+  color: #666;
+}
+.iframe .map-fb view.data-v-bd95cb2e:nth-child(2) {
+  color: #fff;
+  border-color: #fff;
+}
+

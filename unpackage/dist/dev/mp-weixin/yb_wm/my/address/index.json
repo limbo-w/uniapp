@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "mg-input": "/components/form/mg-input",
+    "mg-radio": "/components/form/mg-radio",
+    "bk-b": "/components/common/block-b",
+    "jzz": "/components/common/jzz"
+  }
+}

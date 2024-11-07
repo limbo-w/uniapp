@@ -1,0 +1,1 @@
+<view class="data-v-63604f89"><block wx:if="{{showloading}}"><load vue-id="08aa229d-1" class="data-v-63604f89" bind:__l="__l"></load></block></view>

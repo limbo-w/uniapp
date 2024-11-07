@@ -1,0 +1,22 @@
+.gehdimg.data-v-44391c3a {
+  width: 80rpx;
+  height: 80rpx;
+}
+.geplcon.data-v-44391c3a {
+  margin: 20rpx -10rpx 0;
+}
+.geplitem.data-v-44391c3a {
+  width: 33.33%;
+  height: 180rpx;
+  margin-bottom: 20rpx;
+}
+.geplimg.data-v-44391c3a {
+  margin: 0 10rpx;
+  height: 100%;
+  padding: 0rpx 0rpx;
+}
+.ptnum.data-v-44391c3a {
+  right: 20rpx;
+  bottom: 30rpx;
+}
+

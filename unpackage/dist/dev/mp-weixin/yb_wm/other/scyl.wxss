@@ -1,0 +1,46 @@
+.b-s.data-v-c5ea9f9a {
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.1);
+}
+.scmain.data-v-c5ea9f9a {
+  padding: 300rpx 20rpx 160rpx;
+}
+.scmain .bd.data-v-c5ea9f9a {
+  padding: 30rpx 40rpx;
+}
+.ysc .img.data-v-c5ea9f9a {
+  margin: 70rpx auto 0;
+  width: 190rpx;
+}
+.sjlic.data-v-c5ea9f9a {
+  margin: 60rpx 0 60rpx;
+  padding: 0 30rpx;
+}
+.sjlic .sjli.data-v-c5ea9f9a {
+  width: 265rpx;
+  background: #FFE6B4;
+  margin-bottom: 40rpx;
+}
+.sjlic .t0.data-v-c5ea9f9a {
+  font-size: 65rpx;
+}
+.sjlic .t1.data-v-c5ea9f9a {
+  color: #D18D37;
+}
+.sjlic .t2.data-v-c5ea9f9a {
+  color: #A13B00;
+}
+.sjlic .ck.data-v-c5ea9f9a,
+.sjlic .qsy.data-v-c5ea9f9a {
+  padding: 9rpx 20rpx;
+  border-radius: 50rpx;
+}
+.sjlic .ck.data-v-c5ea9f9a {
+  color: #FFA115;
+}
+.sjlic .qsy.data-v-c5ea9f9a {
+  background: #FF8C00;
+}
+.cf1c.data-v-c5ea9f9a {
+  color: #FFAB1C;
+}
+

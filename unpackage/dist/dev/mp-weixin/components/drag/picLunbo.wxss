@@ -1,0 +1,8 @@
+.swiper.data-v-bef8e910 {
+  width: 100%;
+  height: 350rpx;
+  overflow: hidden;
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+

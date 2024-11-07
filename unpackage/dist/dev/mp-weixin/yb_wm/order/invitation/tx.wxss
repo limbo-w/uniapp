@@ -1,0 +1,29 @@
+.mdbd.data-v-707c4058 {
+  border-radius: 40rpx 40rpx 0 0;
+}
+.mdbdt.data-v-707c4058 {
+  margin: 0 30rpx;
+}
+.mdinput.data-v-707c4058 {
+  font-size: 70rpx;
+  height: 2.9rem;
+  line-height: 2.9rem;
+  caret-color: #17E883;
+}
+.mdbdb.data-v-707c4058 {
+  padding: 0 50rpx;
+}
+.hdwith.data-v-707c4058 {
+  width: 100rpx;
+}
+.fxc.data-v-707c4058 {
+  border-radius: 30rpx 30rpx 0 0;
+}
+.sharec.data-v-707c4058 {
+  margin-top: 50rpx;
+}
+.iconimg.data-v-707c4058 {
+  width: 48rpx;
+  height: 48rpx;
+}
+

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mg-popup": "/components/common/popup",
+    "bk-b": "/components/common/block-b"
+  }
+}

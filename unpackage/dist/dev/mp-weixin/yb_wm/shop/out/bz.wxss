@@ -1,0 +1,18 @@
+
+page {
+	background: #fff;
+}
+
+.m05.data-v-fe0c49de {
+  margin: 0 5rpx;
+}
+.kjsr.data-v-fe0c49de {
+  margin: 35rpx 0;
+  color: #8F8F8F;
+}
+.label.data-v-fe0c49de {
+  border: 1px solid #EFEFEF;
+  padding: 8rpx 15rpx;
+  margin: 0 20rpx 20rpx 0;
+}
+

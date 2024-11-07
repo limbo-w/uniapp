@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "mg-modal": "/components/common/modal"
+  }
+}

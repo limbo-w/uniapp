@@ -1,0 +1,26 @@
+.conw.data-v-0120026e {
+  width: 210rpx;
+}
+.conw .goodsimg.data-v-0120026e {
+  width: 210rpx;
+  height: 210rpx;
+}
+.conw .conwb.data-v-0120026e {
+  padding: 10rpx 6rpx 0 2rpx;
+}
+.conw2 .left.data-v-0120026e {
+  width: 138rpx;
+  height: 138rpx;
+}
+.mb80.data-v-0120026e {
+  padding-bottom: 100rpx;
+}
+.ysq.data-v-0120026e {
+  height: 50rpx;
+  background: rgba(0, 0, 0, 0.5);
+}
+.sphdir.data-v-0120026e {
+  padding-left: 10rpx;
+  border-left: 0.5px solid #eee;
+}
+

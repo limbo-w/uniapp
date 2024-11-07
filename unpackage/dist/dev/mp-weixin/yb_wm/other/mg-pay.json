@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mg-popup": "/components/common/popup",
+    "mg-modal": "/components/common/modal"
+  }
+}

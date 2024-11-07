@@ -1,0 +1,26 @@
+.mrltc.data-v-5ad0a39e {
+  width: 50rpx;
+  height: 50rpx;
+}
+.b-l-ts.data-v-5ad0a39e {
+  background: linear-gradient(to bottom, #f38529, #fe912c);
+}
+.b-l-sy.data-v-5ad0a39e {
+  background: linear-gradient(to bottom, #a57afa, #a175f8);
+}
+.b-l-kc.data-v-5ad0a39e {
+  background: linear-gradient(to bottom, #07C160, #09BB07);
+}
+.b-l-yy.data-v-5ad0a39e {
+  background: linear-gradient(to bottom, #05CBE0, #02AABA);
+}
+.b-l-pd.data-v-5ad0a39e {
+  background: linear-gradient(to bottom, #FFCD42, #FABC0A);
+}
+.b-r.data-v-5ad0a39e {
+  width: 1px;
+  height: 23rpx;
+  background: #999;
+  margin: 0 12rpx;
+}
+

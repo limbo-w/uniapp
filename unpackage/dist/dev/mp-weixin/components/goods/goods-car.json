@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "add-goods": "/components/goods/add-goods",
+    "mg-popup": "/components/common/popup",
+    "sq-btn": "/components/common/sq-btn"
+  }
+}

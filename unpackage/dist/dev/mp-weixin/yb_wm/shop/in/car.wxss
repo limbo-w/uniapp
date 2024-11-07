@@ -1,0 +1,101 @@
+.tgg.data-v-764f87c2 {
+  padding: 10rpx 30rpx;
+  height: 80rpx;
+  line-height: 1.4;
+  background: #FFF3EA;
+  z-index: 99;
+}
+.cfc.data-v-764f87c2 {
+  color: #ff7c1c;
+}
+.dbbtnc.data-v-764f87c2 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 998;
+  padding: 20rpx 30rpx;
+}
+.dbbtnc .dbbtn.data-v-764f87c2 {
+  border-radius: 80rpx;
+  height: 80rpx;
+}
+.dbbtnc .dbl.data-v-764f87c2,
+.dbbtnc .dbr.data-v-764f87c2 {
+  width: 180rpx;
+  color: #fff;
+  font-size: 30rpx;
+  border-radius: 80rpx;
+}
+.dbbtnc .dbl.data-v-764f87c2 {
+  margin-right: 40rpx;
+  background: linear-gradient(to right, #f8c10d, #ff9503);
+}
+.dbbtnc .dbr.data-v-764f87c2 {
+  background: linear-gradient(to right, #ff7a01, #ff560a);
+}
+.sdbg.data-v-764f87c2 {
+  position: fixed;
+  background: #fff;
+  opacity: 0.8;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 997;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 35rpx;
+  color: #000;
+}
+.sdbg .sdimg.data-v-764f87c2 {
+  width: 80rpx;
+  height: 80rpx;
+  margin-bottom: 30rpx;
+}
+.sdbg .sdbtn.data-v-764f87c2 {
+  margin-top: 30rpx;
+  background: linear-gradient(to right, #ff7a01, #ff560a);
+  color: #fff;
+  font-size: 30rpx;
+}
+.hddb.data-v-764f87c2 {
+  bottom: 300rpx;
+}
+.hddb .hddbimg.data-v-764f87c2 {
+  width: 60rpx;
+  height: 60rpx;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.cimg.data-v-764f87c2 {
+  width: 70rpx;
+  height: 70rpx;
+  position: relative;
+  z-index: 2;
+}
+.cun.data-v-764f87c2 {
+  height: 50rpx;
+  border-radius: 50rpx;
+  padding: 0 30rpx 0 40rpx;
+  bottom: 2rpx;
+  left: 40rpx;
+  background: #F5F5F5;
+}
+.ucarlc.data-v-764f87c2 {
+  border-radius: 25rpx;
+}
+.sjx.data-v-764f87c2 {
+  top: 0;
+  left: 0rpx;
+  padding: 0 40rpx;
+  height: 35rpx;
+  font-size: 20rpx;
+  line-height: 35rpx;
+  border-radius: 0 0 20rpx 0;
+  background: linear-gradient(#F75214, #F87D22);
+}
+

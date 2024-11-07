@@ -1,0 +1,21 @@
+.topimg.data-v-e7004aec {
+  height: 100vw;
+}
+.logoc.data-v-e7004aec {
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 166rpx;
+  height: 166rpx;
+}
+.snbtnc.data-v-e7004aec {
+  margin-top: 95rpx;
+}
+.btni.data-v-e7004aec {
+  margin: 0 19.5% 50rpx;
+  border: 1px solid #000;
+  height: 80rpx;
+  border-radius: 80rpx;
+}
+

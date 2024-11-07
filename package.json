@@ -1,0 +1,24 @@
+{
+	"name": "mg_uniapp",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/orangeflash/uni-app.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/orangeflash/uni-app/issues"
+	},
+	"homepage": "https://github.com/orangeflash/uni-app#readme",
+	"dependencies": {
+		"lodash": "^4.17.20",
+		"weixin-js-sdk": "^1.4.0-test"
+	}
+}
